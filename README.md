@@ -37,7 +37,7 @@ jupyter notebook
 ~~~
 
 This should open a new browser window. You are ready to start coding!
-Finally, when you are done working with the code, deactivate the environment: 
+Finally, when you are done working with your notebooks, deactivate the environment: 
 ~~~ 
 conda deactivate
 ~~~
