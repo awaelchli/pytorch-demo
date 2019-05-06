@@ -44,7 +44,10 @@ conda deactivate
 
 ## Slides
 
-The slides are available as an interactive Jupyter Notebook. 
+The slides are available as an interactive Jupyter Notebook. If you want to use and adapt them yourself, you will need RISE:
+~~~
+conda install -c conda-forge rise
+~~~
 
 
 [1]: https://www.anaconda.com/distribution/ "Install Anaconda"
