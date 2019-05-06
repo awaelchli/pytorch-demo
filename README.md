@@ -30,7 +30,7 @@ This presentation is prepared for PyTorch 1.1.0.
 
 #### [Jupyter Notebook][3] 
 
-We will use Jupyter Notebook as an interactive code editor. First install it, then start it like so:
+We will use Jupyter Notebook as an interactive code editor. First install it, then start:
 ~~~
 conda install jupyter
 jupyter notebook
