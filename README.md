@@ -30,11 +30,17 @@ This presentation is prepared for PyTorch 1.1.0.
 
 #### [Jupyter Notebook][3] 
 
+We will use Jupyter Notebook as an interactive code editor. First install it, then start it like so:
 ~~~
 conda install jupyter
+jupyter notebook
 ~~~
 
-Deactivate the environment: ``` conda deactivate ```
+
+Finally, if you are done working with the code, deactivate the environment: 
+~~~ 
+conda deactivate
+~~~
 
 ## Slides
 
