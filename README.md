@@ -36,8 +36,8 @@ conda install jupyter
 jupyter notebook
 ~~~
 
-
-Finally, if you are done working with the code, deactivate the environment: 
+This should open a new browser window. You are ready to start coding!
+Finally, when you are done working with the code, deactivate the environment: 
 ~~~ 
 conda deactivate
 ~~~
