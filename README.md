@@ -27,7 +27,7 @@ If you have a system with an NVIDIA graphics card that supports CUDA, choose the
 - GPU: ``` conda install pytorch torchvision cudatoolkit=10.0 -c pytorch ``` 
 - CPU: ``` conda install pytorch-cpu torchvision-cpu -c pytorch ``` 
 
-This repository is prepared for PyTorch 1.1.0. 
+This repository was prepared with PyTorch 1.1.0. 
 
 #### [Jupyter Notebook][3] 
 
