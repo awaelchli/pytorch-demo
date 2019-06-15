@@ -1,6 +1,6 @@
 # PyTorch Demo
 
-Learn PyTorch by example. This repository is built for the presentation given at the Future Talk 2019 event. 
+This repository is built for the presentation given at the Future Talk 2019 event. 
 
 ## Prerequisites 
 
