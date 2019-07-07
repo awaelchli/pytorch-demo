@@ -43,6 +43,13 @@ Finally, when you are done working with your notebooks, deactivate the environme
 conda deactivate
 ~~~
 
+#### Everything Else
+
+You will need a bunch of other packages, nothing fancy. Just run
+```
+pip install -r requirements.txt
+```
+
 ## Slides
 
 The slides are available as an interactive Jupyter Notebook. If you want to use and adapt them yourself, you will need [RISE][4]:
