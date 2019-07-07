@@ -37,11 +37,7 @@ conda install jupyter
 jupyter notebook
 ~~~
 
-This should open a new browser window. You are ready to start coding!
-Finally, when you are done working with your notebooks, deactivate the environment: 
-~~~ 
-conda deactivate
-~~~
+This should open a new browser window. 
 
 #### Everything Else
 
@@ -49,6 +45,12 @@ You will need a bunch of other packages, nothing fancy. Just run
 ```
 pip install -r requirements.txt
 ```
+
+You are ready to start coding!
+Finally, when you are done working with your notebooks, deactivate the environment: 
+~~~ 
+conda deactivate
+~~~
 
 ## Slides
 
